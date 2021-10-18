@@ -1,3 +1,3 @@
-module awesomeProject
+module sahiltestmod
 
 go 1.17
